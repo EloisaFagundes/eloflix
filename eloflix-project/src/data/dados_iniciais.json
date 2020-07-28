@@ -1,0 +1,188 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pássaros",
+      "link": "https://www.youtube.com/results?search_query=videos+d+epassaros+para+gatos",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Para gatinhos caçadores",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "PÁSSAROS NO VERÃO: vídeo exclusivo para gatos caçadores",
+          "url": "https://www.youtube.com/watch?v=aMF7q_piabw"
+        },
+        {
+          "titulo": "Aves para Gatos Para Assistir",
+          "url": "https://www.youtube.com/watch?v=fBCAOjAS9d4"
+        },
+        {
+          "titulo": "Video for Cats to Watch : Squirrels and Birds Extravaganza",
+          "url": "https://www.youtube.com/watch?v=C2EvpdSxOQg"
+        },
+        {
+          "titulo": "Vídeos para Gatos : Pássaros de Verão",
+          "url": "https://www.youtube.com/watch?v=E_ykS9TfbUI&t=331s"
+        },
+        {
+          "titulo": "Videos y Película Para Gatos - Canto de Aves",
+          "url": "https://www.youtube.com/watch?v=bNfjR6W2RtA"
+        },
+        {
+          "titulo": "Filmes para Gatos - Chilrear de Pássaros",
+          "url": "https://www.youtube.com/watch?v=qtJZsgPNT08"
+        },
+        {
+          "titulo": "Vídeos para gatos para assistir",
+          "url": "https://www.youtube.com/watch?v=j1rZFmFl7ek"
+        },
+        {
+          "titulo": "Videos für Katzen Zum Spielen : Vögel und Eichhörnchen",
+          "url": "https://www.youtube.com/watch?v=2jGd-uppqPA&list=RDCMUCPJXfmxMYAoH02CFudZxmgg&index=5"
+        }        
+      ]
+    },
+    {
+      "titulo": "Saúde",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cuidar da saúde so seu gatinho é essencial",
+        "url": "https://www.youtube.com/results?search_query=saude+dos+gatos"
+      },
+      "videos": [
+        {
+          "titulo": "10 doenças comuns em gatos | LISTA DE SINTOMAS",
+          "url": "https://www.youtube.com/watch?v=nCAwNEJD1aQ"
+        },
+        {
+          "titulo": "Faz mal DORMIR com GATOS? - Prós e contras",
+          "url": "https://www.youtube.com/watch?v=CuknU6KCm80"
+        },
+        {
+          "titulo": "4 Coisas que você NÃO deve fazer com seus gatos!",
+          "url": "https://www.youtube.com/watch?v=CVTG7bSzoh0"
+        },
+        {
+          "titulo": "10 coisas que podem matar seu gato e você tem em casa",
+          "url": "https://www.youtube.com/watch?v=RMDYdG9yQA4"
+        }, 
+        {
+          "titulo": "10 Dicas Que Fazem Bem Para a Saúde Do Seu Gato",
+          "url": "https://www.youtube.com/watch?v=ksLM9JYhsso"
+        }
+      ]
+    },
+    {
+      "titulo": "Comportamento",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Desvendando de uma vez por todas os por quês do seu bichano",
+        "url": "https://www.youtube.com/results?search_query=comportamento+de+gatos"
+      },
+      "videos": [
+        {
+          "titulo": "COMPORTAMENTO DOS GATOS: 5 fatos para entendê-los",
+          "url": "https://www.youtube.com/watch?v=S9zHB3Yo8v8"
+        },
+        {
+          "titulo": "COMO ENTENDER MELHOR O SEU GATO",
+          "url": "https://www.youtube.com/watch?v=O5zlRruXH4I&t=31s"
+        },
+        {
+          "titulo": "LINGUAGEM DOS GATOS: como entender seus sinais e posturas",
+          "url": "https://www.youtube.com/watch?v=H15egJLvHkg"
+        },
+        {
+          "titulo": "Cuidar de gatos - 7 coisas que as pessoas fazem errado",
+          "url": "https://www.youtube.com/watch?v=3Rf-FXan7Rc"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Gatos são poemas ambulantes..."
+      },
+      "videos": [
+        {
+          "titulo": "Gatos | Kedi",
+          "url": "https://www.youtube.com/watch?v=65dtA3Snv8s"
+        },
+        {
+          "titulo": "The Cat Returns",
+          "url": "https://www.youtube.com/watch?v=Gp-H_YOcYTM"
+        },
+        {
+          "titulo": "CATS",
+          "url": "https://www.youtube.com/watch?v=FtSd844cI7U"
+        },
+        {
+          "titulo": "O Gato",
+          "url": "https://www.youtube.com/watch?v=W65pQ9n0sII"
+        }
+      ]
+    },
+    {
+      "titulo": "Animações",
+      "cor": "red",
+      "link_extra": {
+        "text": "Animações para rir ou para chorar, depende do ponto de vista",
+        "url": "https://www.youtube.com/results?search_query=cats+animations"
+      },
+      "videos": [
+        {
+          "titulo": "Kitbull | Pixar SparkShorts",
+          "url": "https://www.youtube.com/watch?v=AZS5cgybKcI"
+        },
+        {
+          "titulo": "PUSHEEN'S VALENTINE",
+          "url": "https://www.youtube.com/watch?v=CUapPhdM7nc"
+        },
+        {
+          "titulo": "A Day In The Life Of A Cat Owner - Simon's Cat ",
+          "url": "https://www.youtube.com/watch?v=fcjR93Jin4Y"
+        },
+        {
+          "titulo": "The Snip - Simon's Cat",
+          "url": "https://www.youtube.com/watch?v=AMHWyS5GyeY"
+        },
+        {
+          "titulo": "Love me, love my cat! - A Simon's Cat Valentines",
+          "url": "https://www.youtube.com/watch?v=6ytpFyD1gvM"
+        }
+      ]
+    },
+    {
+      "titulo": "Para diversão",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Coisas que vão deixar o seu gatinho feliz",
+        "url": "https://www.youtube.com/results?search_query=coisas+para+gato+relaxar"
+      },
+      "videos": [
+        {
+          "titulo": "MÚSICAS PARA GATOS RELAXAREM - 2 horas",
+          "url": "https://www.youtube.com/watch?v=2T5A2us4Om0"
+        },
+        {
+          "titulo": "Matatabi Funciona para Gato? | GATÔMETRO",
+          "url": "https://www.youtube.com/watch?v=8SE2UKxxNTE"
+        },
+        {
+          "titulo": "Como usar CatNip? | DICA DE GATEIRA ",
+          "url": "https://www.youtube.com/watch?v=5Q9fdab57L8"
+        },
+        {
+          "titulo": "10 ACESSÓRIOS PARA GATOS e a importância de cada um deles!",
+          "url": "https://www.youtube.com/watch?v=0quAeVquklQ"
+        },
+        {
+          "titulo": "Qual é o petisco favorito dos gatos? | TOP 3",
+          "url": "https://www.youtube.com/watch?v=82zePZQ7aN0"
+        }
+      ]
+    }
+  ]
+}
