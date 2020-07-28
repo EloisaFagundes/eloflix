@@ -1,12 +1,17 @@
 import React from "react";
-import Logo from "../../assets/images/Logo.png"
+import Logo from "../../assets/images/Logo.png";
+import { LogoStyled, MenuStyled } from "./Styles";
+import Button from "../Button/Button";
 
 function Menu() {
   return (
     <>
-      <nav>
-      <img src={Logo} alt="catflix azul"></img>
-      </nav>
+      <MenuStyled>
+        <a href="/">
+          <LogoStyled src={Logo} alt="catflix azul"></LogoStyled>
+        </a>
+        <Button href="/novo-video"> Novo vídeo</Button>
+      </MenuStyled>
     </>
   );
 }
