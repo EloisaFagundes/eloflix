@@ -1,12 +1,15 @@
 import styled from "styled-components";
 
 export const LogoStyled = styled.img`
-  height: 70px;
-`;
+  max-width: 168px;
+  
+@media (max-width: 1200px) {
+    max-width: 105px;
+}`;
 
 export const MenuStyled = styled.nav`
   width: 100%;
-  min-height: 94px;
+  height: 94px;
   z-index: 100;
   display: flex;
   justify-content: space-between;
@@ -24,12 +27,11 @@ export const MenuStyled = styled.nav`
     padding-top: var(--bodyPaddingTop);
   }
   @media (max-width: 800px) {
-      height: 70px;
-      justify-content: center;
+    height: 70px;
+    justify-content: center;
     body {
-        --bodyPaddingTop: 40px;
-        padding-top: var(--bodyPaddingTop);
+      --bodyPaddingTop: 40px;
+      padding-top: var(--bodyPaddingTop);
     }
   }
 `;
-
