@@ -5,7 +5,7 @@ export const LogoStyled = styled.img`
 `;
 
 export const FooterBase = styled.footer`
-  position: absolute;
+  position: relative;
   width: 100%;
   background: var(--black);
   border-top: 2px solid var(--primary);
