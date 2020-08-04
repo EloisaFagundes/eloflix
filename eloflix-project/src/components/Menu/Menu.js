@@ -11,6 +11,7 @@ function Menu() {
         <Link to="/">
           <LogoStyled src={Logo} alt="catflix azul"></LogoStyled>
         </Link>
+        
         <Button as={Link} className="ButtonLink" to="/cadastro/video">
         Novo vídeo
       </Button>
