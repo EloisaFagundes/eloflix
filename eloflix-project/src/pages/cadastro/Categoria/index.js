@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import PageDefault from "../../../components/PageDefault/PageDefault";
 import { Link } from "react-router-dom";
-import FormField from "../../../components/FormField/FormField";
+import FormField from "../../../components/FormField";
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -21,11 +21,8 @@ function CadastroCategoria() {
 
   const lidaComMudancaDeInput = (event) => {
     event.preventDefault();
-    setValor(
-    event.target.getAttribute('name'),
-    event.target.value
-    )};
-
+    setValor(event.target.getAttribute("name"), event.target.value);
+  };
 
   const lidaComOnSubmit = (event) => {
     event.preventDefault();
@@ -39,27 +36,26 @@ function CadastroCategoria() {
 
       <form onSubmit={lidaComOnSubmit}>
         <FormField
-          label="Nome da Categoria:"
+          label="Nome da Categoria"
           name="nome"
           type="text"
           value={valores.nome}
           onChange={lidaComMudancaDeInput}
         />
 
-
         <FormField
-             label="Descrição:"
-             name="descricao"
-             type="text"
-             value={valores.descricao}
-             onChange={lidaComMudancaDeInput}
+          label="Descrição"
+          name="descricao"
+          type="text"
+          value={valores.descricao}
+          onChange={lidaComMudancaDeInput}
         />
         <FormField
-           label="Cor:"
-           name="cor"
-           type="color"
-           value={valores}
-           onChange={lidaComMudancaDeInput}
+          label="Cor"
+          name="cor"
+          type="color"
+          value={valores}
+          onChange={lidaComMudancaDeInput}
         />
 
         <button type="onSubmit">Cadastrar</button>

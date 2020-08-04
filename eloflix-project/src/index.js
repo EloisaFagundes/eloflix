@@ -5,7 +5,7 @@ import Home from "../src/pages/Home/Home"
 import CadastroVideo from "../src/pages/cadastro/Video/Video"
 
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import CadastroCategoria from "./pages/cadastro/Categoria/Categoria";
+import CadastroCategoria from "./pages/cadastro/Categoria";
 
 const ErrorPage = () => (<div> Página não encontrada. ERRO 404.</div>)
 
